@@ -15,7 +15,7 @@ export default async function handler(req, res) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: "Bearer re_bParoRYp_7Ymgvo1YRYixCsGt93XrAhmj", // ← YAHAN APNI KHUD KI KEY PASTE KAR DO
+        Authorization: "Bearer re_fczGkQSG_Bi7UoLwbrcXuoXXjn3XjGm3K", // ← TUMHARI ASLI KEY LAG GAYI
       },
       body: JSON.stringify({
         from: "My Website <onboarding@resend.dev>",
